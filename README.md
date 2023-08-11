@@ -5,5 +5,7 @@ Note that because this was a project done for Information Retrievals at UCI. I c
 
 Demo:
 
-https://github.com/matthewle87/Test/assets/111463817/f49ca7e4-08f8-447e-9ee4-f3ecbbe2b862
+https://github.com/huggingface/candle/assets/111463817/b444d25c-81d5-4c91-9327-457c93a067c3
+
+
 
